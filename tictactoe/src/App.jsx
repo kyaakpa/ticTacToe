@@ -7,19 +7,19 @@ const Square = () => {
       <h1>Tic-Tac-Toe</h1>
       <div className="arena">
         <div className='board-row'>
-          <Box value="1"/>
-          <Box value="2"/>
-          <Box value="3"/>
+          <Box/>
+          <Box/>
+          <Box/>
         </div>
         <div className='board-row'>
-          <Box value="4"/>
-          <Box value="5"/>
-          <Box value="6"/>
+          <Box/>
+          <Box/>
+          <Box/>
         </div>
         <div className='board-row'>
-          <Box value="7"/>
-          <Box value="8"/>
-          <Box value="9"/>
+          <Box/>
+          <Box/>
+          <Box/>
         </div>
       </div>
     </div>
